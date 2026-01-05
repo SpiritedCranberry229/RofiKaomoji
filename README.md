@@ -1,5 +1,5 @@
 # RofiKaomoji (*≧ω≦)
-A simple rofi script to select, copy and paste you favorite kaomoji! (^ω^)
+A simple rofi script to select, copy and paste you favorite kaomojis! (^ω^)
 
 # Instructions
 Before you begin, make sure you have the right dependencies, otherwise you might not be able to correctly see some symbols:
@@ -19,3 +19,7 @@ Before you begin, make sure you have the right dependencies, otherwise you might
 - Fedora: dnf install wl-clipboard
 
 ## After installing these packages, download the latest release and follow the steps below:
+
+1) Move the *"RofiKaomoji.sh"* script file wherever you want in your system (you can assign a shortcut to execute it)
+2) Move the *"kaomoji.txt"* file in $HOME/.config/rofi/
+3) Run the script and enjoy your kaomojis (＾▽＾)
