@@ -23,3 +23,6 @@ Before you begin, make sure you have the right dependencies, otherwise you might
 1) Move the *"RofiKaomoji.sh"* script file wherever you want in your system (you can assign a shortcut to execute it)
 2) Move the *"kaomoji.txt"* file in $HOME/.config/rofi/
 3) Run the script and enjoy your kaomojis (＾▽＾)
+
+# Demo
+[Video Demo](https://github.com/SpiritedCranberry229/RofiKaomoji/blob/main/demo.mp4)
