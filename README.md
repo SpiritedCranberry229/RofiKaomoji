@@ -25,4 +25,4 @@ Before you begin, make sure you have the right dependencies, otherwise you might
 3) Run the script and enjoy your kaomojis (＾▽＾)
 
 # Demo
-[Video Demo](https://github.com/SpiritedCranberry229/RofiKaomoji/blob/main/demo.mp4)
+[Video Demo](https://www.reddit.com/r/arch/comments/1q4uaba/i_made_a_simple_tool_for_kaomojis_on_rofi/)
