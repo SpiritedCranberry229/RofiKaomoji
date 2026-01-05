@@ -5,8 +5,8 @@ A simple rofi script to select, copy and paste you favorite kaomojis! (^ω^)
 Before you begin, make sure you have the right dependencies, otherwise you might not be able to correctly see some symbols:
 
 - Arch: pacman -S _noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-dejavu rofi_
-- Debian/Ubuntu: apt install noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-dejavu rofi
-- Fedora: dnf install noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-dejavu rofi
+- Debian/Ubuntu: apt install _noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-dejavu rofi_
+- Fedora: dnf install _noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-dejavu rofi_
 
 ### If using X11:
 - Arch: pacman -S xclip
