@@ -1,4 +1,4 @@
-# RofiKaomoji
+# RofiKaomoji (*≧ω≦)
 A simple rofi script to select, copy and paste you favorite kaomoji! (^ω^)
 
 # Instructions
